@@ -1,7 +1,7 @@
 # Condicionais If Else em Java
 <h3>Validador de idade eleitoral utilizando ifElse e scanner java.util</h3>
 <p>1 Após importar a biblioteca utilizada para leitura dos valores digitados pelo usuário(java.util)</p>
-<p>2 Configuara o scanner</p>
+<p>2 Configura o scanner</p>
 <p>3 Algoritmo imprime mensagem de instrução solicitando Nome</p>
 <p>4 valor é recebido pelo Scanner e armazenado em variável nome </p>
 <p>5 em seguida imprime/solicita e armazena também a variável idade</p>
